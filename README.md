@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Tharun!  
-🔭 Full Stack Developer | MERN Stack Enthusiast | Tech Explorer 🌐  
+🔭 Full Stack Developer | Tech Explorer 🌐  
 
 ---
 
@@ -62,15 +62,6 @@ Here are some projects that I love:
 
 - **🛒 E-commerce Web App with the MERN Stack**  
   [Live Demo](https://yourprojectlive.com) | [GitHub Repository](https://github.com/yourusername/ecommerce-app)  
-
----
-
-## 🔥 Recent GitHub Contributions  
-
-<!-- Dynamically load GitHub Contributions Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&count_private=true" alt="GitHub Contribution Graph">
-</p>
 
 ---
 
