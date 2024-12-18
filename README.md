@@ -6,9 +6,9 @@
 ## 🌟 My Skills Stack 💻  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React.js">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
